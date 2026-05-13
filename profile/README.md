@@ -2,11 +2,11 @@
 
 --- 
 
-###1).  Introduction to the Vision
+### 1).  Introduction to the Vision
 
 I am creating L‑Cash, a groundbreaking mobile app aimed at revolutionizing the way people in Africa engage with cryptocurrency. The platform’s core mission is to make crypto feel as normal and accessible as traditional money, ensuring users can send, receive, convert, and pay with ease. By focusing on Kenya as an entry point, the app is designed to address the unique challenges and opportunities of emerging markets where access to banking and financial services is limited.
 
-###2). Addressing Real Needs
+### 2). Addressing Real Needs
 
 In many African countries, financial inclusion remains a major hurdle. L‑Cash addresses this by offering a mobile-first, seamless experience for people who are either unbanked or underbanked. With L‑Cash, users can conduct transactions in USDT (Tether), Ethereum (ETH), and their local currency, making the digital economy more accessible. The app allows users to receive their salary in USDT, send payments instantly, and participate in the digital economy without relying on traditional banks.
 
